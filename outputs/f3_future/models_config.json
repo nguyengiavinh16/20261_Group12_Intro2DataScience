@@ -1,0 +1,43 @@
+{
+  "feature_columns": [
+    "x01",
+    "x02",
+    "x03",
+    "x04",
+    "x05",
+    "x06",
+    "x07",
+    "x08",
+    "x09",
+    "x10",
+    "x11",
+    "x12",
+    "x13",
+    "x14",
+    "x15",
+    "x16",
+    "x17",
+    "x18"
+  ],
+  "fusion_weight": 1.0,
+  "training_cohorts": [
+    "2013|CV",
+    "2013|DataMining",
+    "2013|ML",
+    "2013|NLP",
+    "2013|Other",
+    "2013|Robotics",
+    "2014|CV",
+    "2014|DataMining",
+    "2014|ML",
+    "2014|NLP",
+    "2014|Other",
+    "2014|Robotics",
+    "2015|CV",
+    "2015|DataMining",
+    "2015|ML",
+    "2015|NLP",
+    "2015|Other",
+    "2015|Robotics"
+  ]
+}

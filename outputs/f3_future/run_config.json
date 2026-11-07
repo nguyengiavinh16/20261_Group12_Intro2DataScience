@@ -1,0 +1,17 @@
+{
+  "graph": "data/processed/G_cite.pkl",
+  "output": "outputs/f3_future",
+  "domain_map": null,
+  "f1_weights": null,
+  "survey_scores": null,
+  "train_T": 2015,
+  "val_T": 2018,
+  "test_T": 2021,
+  "horizon": 3,
+  "candidate_window": 3,
+  "min_group": 10,
+  "trees": 400,
+  "disable_novelty": false,
+  "extra_baselines": false,
+  "seed": 42
+}

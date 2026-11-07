@@ -1,0 +1,28 @@
+{
+  "mode": "similarity",
+  "format": "pkl",
+  "G_cite_nodes": 130692,
+  "G_cite_edges": 2471854,
+  "G_flow_nodes": 130692,
+  "G_flow_edges": 2459066,
+  "G_flow_is_DAG": true,
+  "flow_build_stats": {
+    "mode": "similarity",
+    "input_nodes": 130692,
+    "input_edges": 2471854,
+    "removed_reverse_time": 7725,
+    "removed_missing_year": 0,
+    "removed_self_loops": 0,
+    "same_year_edges": 140364,
+    "initial_flow_edges": 2464129,
+    "cyclic_scc_count": 2400,
+    "largest_cyclic_scc": 469,
+    "removed_cycle_edges": 5063,
+    "output_nodes": 130692,
+    "output_edges": 2459066,
+    "seconds_temporal": 8.422,
+    "seconds_scc": 0.313,
+    "seconds_total": 17.496
+  },
+  "elapsed_seconds": 92.324
+}
